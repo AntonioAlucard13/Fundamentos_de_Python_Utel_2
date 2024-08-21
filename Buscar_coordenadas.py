@@ -1,8 +1,7 @@
 #Fundamentos de Python - Utel
 #Buscar coordenadas : Encuentra el cuadrante.
 
-print ("""Bienvenido al Programa: -Buscar Coordenadas-.
-     
+print ("""Bienvenido al Programa: -Buscar Coordenadas-    
 IMPORTANTE: No puedes ingresar un Valor igual a CERO [0]
 
     1.- El programa te dirá que Coordenadas ingresaste.
