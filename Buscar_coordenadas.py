@@ -29,7 +29,7 @@ if ejex > 0:
         print ("Las coordenadas ingresadas encuentran el punto en el cuadrante: 4")
         exit()
     else :
-        print ('ERROR!!!: Recuerda que no se debe ingresar como coordenada en Y el valor de cero o por favor revisa si los datos ingresados de ambos ejes no son incorrectos.')
+        print ('ERROR!!!: Recuerda que no se debe ingresar como coordenada en Y el valor de cero o por favor revisa si los datos ingresados de ambos ejes no son incorrectos!!')
         exit () 
 
 elif ejex < 0: 
@@ -50,13 +50,13 @@ elif ejex < 0:
         print ("Las coordenadas ingresadas encuentran el punto en el cuadrante: 3")
         exit()
     else :
-        print ('ERROR!!!: Recuerda que no se debe ingresar como coordenada en Y el valor de cero o por favor revisa si los datos ingresados de ambos ejes no son incorrectos.')
+        print ('ERROR!!!: Recuerda que no se debe ingresar como coordenada en Y el valor de cero o por favor revisa si los datos ingresados de ambos ejes no son incorrectos!!')
         exit ()
 
 elif ejex == 0 :
-    print ('ERROR!!!: Recuerda que no se debe ingresar el valor de cero [0]. Por favor ingrese otro valor.')   
+    print ('ERROR!!!: Recuerda que no se debe ingresar el valor de cero [0]. Por favor ingrese otro valor!!')   
 else :
-    print ('ERROR!!!: Recuerda que no se debe ingresar como coordenada en X el valor de cero o por favor revisa si los datos ingresados de ambos ejes no son incorrectos.')
+    print ('ERROR!!!: Recuerda que no se debe ingresar como coordenada en X el valor de cero o por favor revisa si los datos ingresados de ambos ejes no son incorrectos!!')
     exit ()
 
     #Creado por el Ing. Antonio Figueroa Castro.
