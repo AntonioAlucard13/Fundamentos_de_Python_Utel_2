@@ -1,7 +1,6 @@
 #Fundamentos de Python - Utel
 #Lóngitud de la Frase : Que contenga de 4 a 8 caracteres.
 
-#Iniciamos con una breve Bienvenida al Usuario y unas pequeñas indicaciones:
 print ("""Bienvenido al Programa: -Lóngitud de una frase- 
 IMPORTANTE: Ingresa una palabra que tenga de 4 a 8 caracteres.
        
