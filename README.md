@@ -1,4 +1,4 @@
-# Fundamentos_de_Python_Utel_2
+#Fundamentos_de_Python_Utel_2
 Proyecto no. 2: Longitud de una Frase y Encuentra el Cuadrante
 
 #Lóngitud de la Frase : Que contenga de 4 a 8 caracteres.
